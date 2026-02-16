@@ -26,10 +26,7 @@
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
 
 ### Security & Systems
-- SOC Monitoring  
-- Incident Analysis  
-- Log Investigation  
-- Threat Detection Basics  
+- SOC Monitoring    
 - Linux Systems  
 
 ### Tools & Environment
