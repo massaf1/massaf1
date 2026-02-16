@@ -9,11 +9,12 @@
 
 ## 🚀 About Me
 
-- 🎓 Computer Science Student at **Technische Universität Hamburg (TUHH)**
+- 🎓 Computer Science Student (B.Sc.)  
+- 💼 Working as **Security Assistant in a SOC Team**
 - 💻 Strong foundation in **C** and **Haskell**
 - 🐍 Currently expanding into **Python**
-- 🧠 Focused on clean code, fundamentals & problem-solving
-- 🔧 Interested in systems, functional programming and software architecture
+- 🛡 Focused on Cybersecurity, system-level thinking & secure architectures
+- 🏠 Interested in Smart Home technologies & automation
 
 ---
 
@@ -24,10 +25,26 @@
 ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=flat&logo=haskell&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
 
+### Security & Systems
+- SOC Monitoring  
+- Incident Analysis  
+- Log Investigation  
+- Threat Detection Basics  
+- Linux Systems  
+
 ### Tools & Environment
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
+
+---
+
+## 🏠 Interests
+
+- Smart Home automation & device integration  
+- Network security in home environments  
+- Secure system design  
+- Functional programming concepts  
 
 ---
 
@@ -36,7 +53,7 @@
 ```c
 while (student) {
     learn();
-    code();
-    breakThings();
-    fixThings();
+    analyze();
+    secure();
+    build();
 }
