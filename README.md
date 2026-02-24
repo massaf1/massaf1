@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Mohamad  
+# 👋 Hi, There 
 ### Computer Science Student @ TUHH  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamad%20Assaf-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamad-assaf-58200b1b9)  
